@@ -1,0 +1,14 @@
+{
+  "name": "tz-lookup-cli",
+  "version": "0.0.1",
+  "description": "Simple coordinate to timezone lookup service provided via CLI (Uses tz-lookup for heavy lifting)",
+  "main": "tz-lookup-cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "tz-lookup": "^6.0.1"
+  },
+  "author": "Raj Perera <rajiteh@gmail.com>",
+  "license": "CC0"
+}
